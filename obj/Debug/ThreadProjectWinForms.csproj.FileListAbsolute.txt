@@ -1,0 +1,9 @@
+c:\users\эмиль\documents\visual studio 2013\Projects\ThreadProjectWinForms\ThreadProjectWinForms\bin\Debug\ThreadProjectWinForms.exe.config
+c:\users\эмиль\documents\visual studio 2013\Projects\ThreadProjectWinForms\ThreadProjectWinForms\bin\Debug\ThreadProjectWinForms.exe
+c:\users\эмиль\documents\visual studio 2013\Projects\ThreadProjectWinForms\ThreadProjectWinForms\bin\Debug\ThreadProjectWinForms.pdb
+c:\users\эмиль\documents\visual studio 2013\Projects\ThreadProjectWinForms\ThreadProjectWinForms\obj\Debug\ThreadProjectWinForms.csprojResolveAssemblyReference.cache
+c:\users\эмиль\documents\visual studio 2013\Projects\ThreadProjectWinForms\ThreadProjectWinForms\obj\Debug\ThreadProjectWinForms.Form1.resources
+c:\users\эмиль\documents\visual studio 2013\Projects\ThreadProjectWinForms\ThreadProjectWinForms\obj\Debug\ThreadProjectWinForms.Properties.Resources.resources
+c:\users\эмиль\documents\visual studio 2013\Projects\ThreadProjectWinForms\ThreadProjectWinForms\obj\Debug\ThreadProjectWinForms.csproj.GenerateResource.Cache
+c:\users\эмиль\documents\visual studio 2013\Projects\ThreadProjectWinForms\ThreadProjectWinForms\obj\Debug\ThreadProjectWinForms.exe
+c:\users\эмиль\documents\visual studio 2013\Projects\ThreadProjectWinForms\ThreadProjectWinForms\obj\Debug\ThreadProjectWinForms.pdb
